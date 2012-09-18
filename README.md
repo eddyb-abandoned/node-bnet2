@@ -8,8 +8,8 @@ The data is from WoW 5.0.5a 16057, *might **not** work elsewhere*.
 * Client socket
 * Authentication packets (client-side only)
 * Authentication modules (client-side only)
-* * Password.dll (*note: the server proof isn't verified*).
-* * * 8f52906a2c85b416a595702251570f96d3522f39237603115f2f1ab24962043c
+ * Password.dll (*note: the client-to-server proof isn't verified*).
+  * 8f52906a2c85b416a595702251570f96d3522f39237603115f2f1ab24962043c.auth
 * Encryption
 
 ### Installation
