@@ -1,0 +1,22 @@
+{
+  "name": "bnet2",
+  "version": "0.0.1",
+  "description": "A Battle.net (bnet2) protocol implementation in node.js",
+  "main": "index.js",
+  "directories": {
+    "example": "examples"
+  },
+  "dependencies": {
+    "bignum": "~0.5.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/eddyb/node-bnet2.git"
+  },
+  "author": "eddyb",
+  "license": "BSD"
+}
